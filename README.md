@@ -1,3 +1,3 @@
-# practice
+# CryptoCurrency Coverter
 
-Consists of All Practice Problems.
+Convert any crypto currency to different type through this API.
